@@ -1,0 +1,8 @@
+/*Esto es un selector de etiqueta o tag selector.*/
+div{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
