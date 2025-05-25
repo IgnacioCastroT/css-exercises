@@ -1,0 +1,42 @@
+/*
+All odd numbered elements:
+    a light red/pink background, and a list of fonts containing Verdana and DejaVu Sans with sans-serif as a fallback
+    The second element: blue text and a font size of 36px
+    The third element: in addition to the styles for all odd numbered elements, add a font size of 24px
+    The fourth element: a light green background, a font size of 24px, and bold
+
+The second element: 
+    blue text and a font size of 36px
+
+The third element:
+    in addition to the styles for all odd numbered elements, add a font size of 24px    
+
+The fourth element: 
+    a light green background, a font size of 24px, and bold
+
+*/
+
+
+/*Selector de clase .*/ 
+.impar{
+    background-color: rgb(228, 144, 158);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+/*Selector de ID #*/
+#n2{
+    color: rgb(6, 6, 230);
+    font-size: 36px;
+}
+
+.ajustar-font-size{
+    font-size: 24px;
+}
+
+#n4{
+    background-color: rgb(146, 240, 146);
+    font-weight: bold;
+}
+
+
+
